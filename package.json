@@ -1,0 +1,20 @@
+{
+  "name": "des",
+  "version": "1.0.0",
+  "description": "The objective of this repository is to study the performance of DES algorithms in their simplified and enhanced version, as well as the study of brute force and cryptanalysis attacks (differential and linear).",
+  "main": "des.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xshellcode/DES-Case-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xshellcode/DES-Case-Study/issues"
+  },
+  "homepage": "https://github.com/0xshellcode/DES-Case-Study#readme",
+  "type": "module"
+}
